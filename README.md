@@ -2,20 +2,20 @@
 
 ## Background
 
-This project automates the deployment of a Minecraft Java Edition server on AWS EC2. The infrastructure is created with Terraform, while the server configuration is handled with a Bash script and a systemd service.
+Automate the deployment of Minecraft Java Edition server on AWS EC2. The infrastructure is created with Terraform. The server configuration uses a Bash script and a systemd service.
 
-The goal is to provision an EC2 instance, configure networking, install Minecraft, and make sure the server automatically restarts after the instance reboots.
+The goal is to setup an EC2 instance, configure networking, install Minecraft, and make sure the server automatically restarts after the instance reboots.
 
 ## Requirements
 
 Install these tools before running the project:
 
-- Git
-- Terraform
-- AWS CLI
-- Nmap
-- An AWS Academy Learner Lab account
-- An existing AWS EC2 key pair
+- Git v2.54.0
+- Terraform v1.15.5
+- AWS CLI v2.34.55
+- Nmap v7.80
+- Git Bash
+
 
 AWS CLI must be configured with temporary AWS Academy credentials.
 
