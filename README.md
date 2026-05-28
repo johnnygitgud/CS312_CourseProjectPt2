@@ -153,10 +153,20 @@ Use the Minecraft Java Edition client and connect to:
 INSTANCE_PUBLIC_IP:25565
 ```
 
-## Sources
+## References
 
-- Terraform AWS Provider Documentation
-- AWS CLI Documentation
-- Minecraft Server Download Page
-- Nmap Documentation
-- Ubuntu systemd Documentation
+[1] HashiCorp, “Provision an EC2 Instance on AWS,” Terraform Tutorials. [Online]. Available: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/aws-create. [Accessed: 28-May-2026].
+
+[2] HashiCorp, “Terraform AWS Provider Documentation.” [Online]. Available: https://registry.terraform.io/providers/hashicorp/aws/latest/docs. [Accessed: 28-May-2026].
+
+[3] Amazon Web Services, “AWS Command Line Interface Documentation.” [Online]. Available: https://docs.aws.amazon.com/cli/. [Accessed: 28-May-2026].
+
+[4] Amazon Web Services, “Amazon EC2 Documentation.” [Online]. Available: https://docs.aws.amazon.com/ec2/. [Accessed: 28-May-2026].
+
+[5] Mojang Studios, “Minecraft: Java Edition Server Download.” [Online]. Available: https://www.minecraft.net/en-us/download/server. [Accessed: 28-May-2026].
+
+[6] Canonical Ltd., “Ubuntu Server Documentation.” [Online]. Available: https://ubuntu.com/server/docs. [Accessed: 28-May-2026].
+
+[7] Suse, “systemd Documentation.” [Online]. Available:https://documentation.suse.com/smart/systems-management/html/systemd-basics/index.html. [Accessed: 28-May-2026].
+
+[8] Gordon Lyon, “Nmap Reference Guide.” [Online]. Available: https://nmap.org/docs.html. [Accessed: 28-May-2026].
